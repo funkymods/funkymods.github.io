@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GodeatBG.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="BGgodeater0000" x="0" y="0" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0001" x="1500" y="0" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0002" x="3000" y="0" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0003" x="4500" y="0" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0004" x="6000" y="0" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0005" x="0" y="800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0006" x="1500" y="800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0007" x="3000" y="800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0008" x="4500" y="800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0009" x="6000" y="800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0010" x="0" y="1600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0011" x="1500" y="1600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0012" x="3000" y="1600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0013" x="4500" y="1600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0014" x="6000" y="1600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0015" x="0" y="2400" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0016" x="1500" y="2400" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0017" x="3000" y="2400" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0018" x="4500" y="2400" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0019" x="6000" y="2400" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0020" x="0" y="3200" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0021" x="1500" y="3200" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0022" x="3000" y="3200" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0023" x="4500" y="3200" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0024" x="6000" y="3200" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0025" x="0" y="4000" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0026" x="1500" y="4000" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0027" x="3000" y="4000" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0028" x="4500" y="4000" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0029" x="6000" y="4000" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0030" x="0" y="4800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0031" x="1500" y="4800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0032" x="3000" y="4800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0033" x="4500" y="4800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0034" x="6000" y="4800" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0035" x="0" y="5600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0036" x="1500" y="5600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0037" x="3000" y="5600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0038" x="4500" y="5600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0039" x="6000" y="5600" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0040" x="0" y="6400" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0041" x="1500" y="6400" width="1500" height="800"/>
+	<SubTexture name="BGgodeater0042" x="3000" y="6400" width="1500" height="800"/>
+</TextureAtlas>

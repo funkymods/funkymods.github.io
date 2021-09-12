@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="shaggy.png">
+	<!-- Created with Adobe Animate version 21.0.7.42652 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shaggy_down0000" x="0" y="0" width="325" height="690"/>
+	<SubTexture name="shaggy_down0001" x="325" y="0" width="325" height="690"/>
+	<SubTexture name="shaggy_down0002" x="650" y="0" width="325" height="690"/>
+	<SubTexture name="shaggy_idle0000" x="975" y="0" width="273" height="796"/>
+	<SubTexture name="shaggy_idle0001" x="1248" y="0" width="273" height="796"/>
+	<SubTexture name="shaggy_idle0002" x="1521" y="0" width="273" height="796"/>
+	<SubTexture name="shaggy_idle0003" x="1794" y="0" width="273" height="796"/>
+	<SubTexture name="shaggy_idle0004" x="2067" y="0" width="273" height="796"/>
+	<SubTexture name="shaggy_idle0005" x="2340" y="0" width="273" height="796"/>
+	<SubTexture name="shaggy_idle0006" x="2613" y="0" width="273" height="796"/>
+	<SubTexture name="shaggy_left0000" x="2886" y="0" width="384" height="799"/>
+	<SubTexture name="shaggy_left0001" x="3270" y="0" width="384" height="799"/>
+	<SubTexture name="shaggy_left0002" x="3654" y="0" width="384" height="799"/>
+	<SubTexture name="shaggy_left0003" x="4038" y="0" width="384" height="799"/>
+	<SubTexture name="shaggy_right0000" x="4422" y="0" width="256" height="800"/>
+	<SubTexture name="shaggy_right0001" x="4678" y="0" width="256" height="800"/>
+	<SubTexture name="shaggy_right0002" x="4934" y="0" width="256" height="800"/>
+	<SubTexture name="shaggy_right0003" x="5190" y="0" width="256" height="800"/>
+	<SubTexture name="shaggy_scoobdeath0000" x="5446" y="0" width="571" height="796"/>
+	<SubTexture name="shaggy_scoobdeath0001" x="5446" y="0" width="571" height="796"/>
+	<SubTexture name="shaggy_scoobdeath0002" x="6017" y="0" width="571" height="796"/>
+	<SubTexture name="shaggy_scoobdeath0003" x="6588" y="0" width="571" height="796"/>
+	<SubTexture name="shaggy_scoobdeath0004" x="7159" y="0" width="571" height="796"/>
+	<SubTexture name="shaggy_scoobdeath0005" x="0" y="800" width="571" height="796"/>
+	<SubTexture name="shaggy_scoobscared0000" x="571" y="800" width="543" height="857"/>
+	<SubTexture name="shaggy_scoobscared0001" x="1114" y="800" width="543" height="857"/>
+	<SubTexture name="shaggy_scoobscared0002" x="1657" y="800" width="543" height="857"/>
+	<SubTexture name="shaggy_up0000" x="2200" y="800" width="360" height="799"/>
+	<SubTexture name="shaggy_up0001" x="2560" y="800" width="360" height="799"/>
+	<SubTexture name="shaggy_up0002" x="2920" y="800" width="360" height="799"/>
+	<SubTexture name="shaggy_up0003" x="3280" y="800" width="360" height="799"/>
+	<SubTexture name="shaggys_down0000" x="3640" y="800" width="303" height="691"/>
+	<SubTexture name="shaggys_down0001" x="3943" y="800" width="303" height="691"/>
+	<SubTexture name="shaggys_down0002" x="4246" y="800" width="303" height="691"/>
+	<SubTexture name="shaggys_idle0000" x="4549" y="800" width="273" height="796"/>
+	<SubTexture name="shaggys_idle0001" x="4822" y="800" width="273" height="796"/>
+	<SubTexture name="shaggys_idle0002" x="5095" y="800" width="273" height="796"/>
+	<SubTexture name="shaggys_idle0003" x="5368" y="800" width="273" height="796"/>
+	<SubTexture name="shaggys_idle0004" x="5641" y="800" width="273" height="796"/>
+	<SubTexture name="shaggys_idle0005" x="5914" y="800" width="273" height="796"/>
+	<SubTexture name="shaggys_idle0006" x="6187" y="800" width="273" height="796"/>
+	<SubTexture name="shaggys_idle0007" x="6460" y="800" width="273" height="796"/>
+	<SubTexture name="shaggys_left0000" x="6733" y="800" width="393" height="801"/>
+	<SubTexture name="shaggys_left0001" x="7126" y="800" width="393" height="801"/>
+	<SubTexture name="shaggys_left0002" x="7519" y="800" width="393" height="801"/>
+	<SubTexture name="shaggys_right0000" x="7912" y="800" width="269" height="796"/>
+	<SubTexture name="shaggys_right0001" x="0" y="1657" width="269" height="796"/>
+	<SubTexture name="shaggys_up0000" x="269" y="1657" width="352" height="798"/>
+	<SubTexture name="shaggys_up0001" x="621" y="1657" width="352" height="798"/>
+	<SubTexture name="shaggys_up0002" x="973" y="1657" width="352" height="798"/>
+</TextureAtlas>
