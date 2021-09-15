@@ -1,3 +1,2 @@
 i do funny fnf mods
-<h1> TO PLAY, PUT THE NAME OF THE MOD AFTER "carsonharrell.github.io/" 
-  FOR EXAMPLE, VOID MOD WOULD BE carsonharrell.github.io/void </h1>
+<h1> https://carsonharrell.github.io </h1>
